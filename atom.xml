@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-04-18T06:29:59.834Z</updated>
+  <updated>2019-04-30T08:29:14.037Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,16 +21,15 @@
     <link href="http://yoursite.com/2019/04/18/%E5%AF%B9%E6%96%B9%E6%AD%A3%E5%9C%A8%E6%8C%81%E7%BB%AD%E8%BE%93%E5%85%A5/"/>
     <id>http://yoursite.com/2019/04/18/对方正在持续输入/</id>
     <published>2019-04-18T03:48:52.000Z</published>
-    <updated>2019-04-18T06:29:59.834Z</updated>
+    <updated>2019-04-30T08:29:14.037Z</updated>
     
-    <content type="html"><![CDATA[<p><del>吴恩达机器学习</del></p>]]></content>
+    <content type="html"><![CDATA[<h2 id="机器学习"><a href="#机器学习" class="headerlink" title="机器学习"></a>机器学习</h2><p><del>吴恩达机器学习</del> 2019.0430<br><del>统计学习方法 李航</del> 2019.0430</p><h2 id="深度学习"><a href="#深度学习" class="headerlink" title="深度学习"></a>深度学习</h2>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;&lt;del&gt;吴恩达机器学习&lt;/del&gt;&lt;/p&gt;
-
+        &lt;h2 id=&quot;机器学习&quot;&gt;&lt;a href=&quot;#机器学习&quot; class=&quot;headerlink&quot; title=&quot;机器学习&quot;&gt;&lt;/a&gt;机器学习&lt;/h2&gt;&lt;p&gt;&lt;del&gt;吴恩达机器学习&lt;/del&gt; 2019.0430&lt;br&gt;&lt;del&gt;统计学习方法 李航&lt;/del&gt; 2019.0430
       
     
     </summary>
